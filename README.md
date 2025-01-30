@@ -52,8 +52,8 @@ Feel free to fork this repository and submit a pull request, or raise issues for
 
 ## 🌐 Connect With Me  
 
-- LinkedIn: [Deepak Kumar](https://linkedin.com/in/deepakkumar7774)  
-- GitHub: [GitHub Profile](https://github.com/Deepakkumar7774/Career-Aspirations-of-Gen-Z) 
+- LinkedIn: https://linkedin.com/in/deepakkumar7774
+- GitHub: https://github.com/Deepakkumar7774/Career-Aspirations-of-Gen-Z
 
 
 
@@ -63,5 +63,6 @@ The data used in this project is for demonstration purposes only and may not rep
 
 
 💡 **Let’s Shape the Future Together!**  
+
 If you find this project useful or have ideas for improvement, feel free to connect or share your thoughts.  
 
